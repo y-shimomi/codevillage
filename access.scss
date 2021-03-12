@@ -1,0 +1,43 @@
+.access-p{
+    height: 733px;
+    background: #A193861F 70% 0% no-repeat padding-box;
+    opacity: 1;
+    position: relative;
+    & h4{
+      margin-left: 104px;
+      position: absolute;
+      top: 30%;
+      color: #707070;
+    }
+}
+
+.access-item{
+  width: 46%; height: 397px; 
+    background: #D0C5BA 0% 100% no-repeat padding-box;
+    opacity: 1;
+    margin-top: 271px;
+    display: inline-block;
+    position: relative;
+    & iframe {
+      position: absolute;
+      left: 100%;
+      top: 0%;
+    }
+}
+
+.place-p {
+  list-style-type: none;
+  font-size: 16px;
+  margin-left: 104px;
+  color: #FFFFFF;
+}
+
+.place{
+  display: inline-block;
+  font-size: 24px;
+  margin-left: 104px;
+  margin-top: 101px;
+  top: 25%;
+  color: #00000038;
+  
+}

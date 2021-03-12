@@ -1,0 +1,38 @@
+.second-place{
+    background: #A193861F 0% 0% no-repeat padding-box;
+    background-size: 400px;
+    opacity: 1;
+    & h4{
+        margin:0;
+        padding-top: 256px;
+        padding-left: 101px;
+    }
+}
+
+.concept-p{
+    width: 100%;
+    height: 560px;
+    background: #A1938689 0% 0% no-repeat padding-box;
+    opacity: 1;
+    display: flex;
+    justify-content: center;
+    & h3{
+        margin: 0;
+        color: #FFFFFF;
+        font-family: Hiragino Mincho Pro;
+        font-weight: normal;
+        font-size: 40px;
+        letter-spacing: 16px;
+        padding-top: 240px;
+    }
+    & p{
+        width:33%;
+        height: 13%;
+        margin-right: 0;
+        left: 52%;
+        color: #FFFFFF;
+        font-family: Hiragino Kaku Gothic Pro;
+        letter-spacing: 1.6px;
+        padding-top: 200px;
+    }
+}
