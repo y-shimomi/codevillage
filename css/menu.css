@@ -1,0 +1,90 @@
+@charset "UTF-8";
+.menu-p {
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding-top: 261px;
+}
+
+.menu-p h4 {
+  margin-top: 0;
+}
+
+.first-menu {
+  background-image: url(/Web-1280–1/jens-lindner-4i7-mcM7xSY-unsplash.png);
+  background-position: 0 0;
+  background-repeat: no-repeat;
+  opacity: 1;
+  width: 21%;
+  height: 14%;
+  padding-top: 308px;
+  margin-top: 30px;
+}
+
+.first-menu h3 {
+  margin-top: 0;
+  font-size: 30px;
+  font-family: Roboto Mono for Powerline;
+}
+
+.first-menu p {
+  font-family: Roboto Mono for Powerline;
+  font-size: 16px;
+  letter-spacing: 1.6px;
+}
+
+.second-menu {
+  background-image: url(/Web-1280–1/beautiful-beauty-female-247322.png);
+  background-position: 0 0;
+  background-repeat: no-repeat;
+  opacity: 1;
+  width: 21%;
+  height: 14%;
+  padding-top: 308px;
+  margin-top: 30px;
+}
+
+.second-menu h3 {
+  font-size: 30px;
+  font-family: Mono for Powerline;
+  margin-top: 0;
+}
+
+.second-menu p {
+  font-family: Roboto Mono for Powerline;
+  font-size: 16px;
+  font-weight: normal;
+  letter-spacing: 1.6px;
+}
+
+.third-menu {
+  background-image: url(/Web-1280–1/edgar-perez-kTBJmeRbAbo-unsplash.png);
+  background-position: 0 0;
+  background-repeat: no-repeat;
+  width: 21%;
+  height: 14%;
+  padding-top: 308px;
+  margin-top: 30px;
+}
+
+.third-menu h3 {
+  margin-top: 0;
+  font-size: 30px;
+  font-family: Roboto Mono for Powerline;
+}
+
+.third-menu p {
+  letter-spacing: 1.6px;
+  font-family: Roboto Mono for Powerline;
+  font-size: 16px;
+  font-weight: normal;
+}
+
+.menu-price {
+  text-align: right;
+  margin-bottom: 70px;
+}
+/*# sourceMappingURL=menu.css.map */
